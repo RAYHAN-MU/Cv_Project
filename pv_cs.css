@@ -1,0 +1,127 @@
+.header_class
+{
+   height:200px;
+   width:1200px;
+   
+   margin-top:0;
+} 
+
+.h_class
+{
+   height:200px;
+   width:1200px;
+ ss
+ margin-top:0;
+margin-bottom:200px;
+}
+
+
+.head_class
+{
+     padding-top:80px;
+   float:left; 
+  line-height:2px;
+  padding-left:10px; 
+margin-bottom:10px;
+}
+img
+{
+   height:150px;
+   width:250px; 
+    border:3px solid #FFC86E;
+    border-radius:70%;
+padding:3px;
+margin-top:10px;
+margin-left:10px; 
+float:left;        
+}
+
+.address_class
+{
+     
+float:right; 
+padding-top:150px; 
+padding-right:25px;  
+color:yellow; 
+
+}
+.address_class a
+{
+   text-decoration:none;
+} 
+hr
+{
+   border:3px solid gray;
+   width:1200px;
+   margin:0;   
+}
+ .h_class p  
+{
+  float:right; 
+  padding-right:80px; 
+
+
+}
+
+.a
+{
+
+  background-color:#9FB0BA; 
+   width:1201px;
+   height:1400px;
+}
+address
+{
+      margin-left:10px;
+
+}
+.h_class h3
+{
+  margin-left:10px;
+
+
+} 
+.education_class 
+{
+     margin-left:10px; 
+     margin-bottom:0;
+}
+
+.education_class ul li
+{
+        margin-left:60px;
+}
+.skill_class
+{
+
+   margin-left:10px; 
+
+}
+.language_class
+{
+   margin-left:10px;
+} 
+
+.career_objective
+{
+
+  margin-left:10px; 
+ 
+} 
+.career_objective p
+{
+    margin:10px;
+
+}
+.ref_class .ref_1
+{  
+ 
+     float:right; 
+     margin:60px;
+}
+
+.ref_class .ref_2
+{   
+   margin:60px;
+  float:right;
+}
